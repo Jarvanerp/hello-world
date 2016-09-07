@@ -1,2 +1,4 @@
 # hello-world
-This is my firsy repo
+This is my first repo
+
+Ik ben Jarno
